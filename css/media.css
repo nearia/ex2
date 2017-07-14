@@ -1,0 +1,75 @@
+@media (max-width: 768px) {
+.navbar-nav>li>a {
+  padding-top: 15px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid #24282f;
+}
+.button_wrap {
+  text-align: center;
+}
+.filter-button {
+  display: block !important;
+  width: 100%;
+  border-bottom: 2px solid #b5a263 !important;
+  border-radius: 0 !important;
+  margin: 0 !important;
+}
+.img-responsive {
+  width: 100%;
+  height: auto !important;
+  display: block
+}
+.gallery_product {
+  width: 100%;
+  height: auto;
+}
+.work_box_wrap {
+  max-width: 100% !important;
+}
+.team_txt {
+  padding: 0 0 0 140px;
+}
+.features_txt {
+  padding: 0 0 20px 75px;
+}
+.features_box {
+  padding: 15px 10px 15px 10px;
+}
+}
+@media (max-width: 520px) {
+.slick-dots {
+  display: none !important;
+}
+.slider h1 {
+  font-size: 20px;
+  margin: 0;
+}
+.slider p {
+  margin: 0;
+  font-size: 12px;
+}
+.slider .btn {
+  margin: 10px;
+}
+.business p {
+  margin: 0;
+}
+.about_us_box2 {
+  padding: 60px 0;
+}
+.about_us {
+  padding: 60px 0;
+}
+.recent-works {
+  padding: 60px 0;
+}
+.work {
+  padding: 60px 0;
+}
+.work_box2 {
+  padding: 60px 20px;
+}
+.slider_bottom_bg {
+  padding: 60px 0;
+}
+}
